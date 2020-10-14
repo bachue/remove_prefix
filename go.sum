@@ -1,0 +1,7 @@
+github.com/jessevdk/go-flags v1.4.0 h1:4IU2WS7AumrZ/40jfhf4QVDMsQwqA7VEHozFRrGARJA=
+github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
+github.com/miquella/ask v1.0.0 h1:QrFtpgA7tbDSlPUUwCMaAzZLnWseFZtryAn/pnvd3d8=
+github.com/miquella/ask v1.0.0/go.mod h1:5hBixDZi2issKiqBf4oQ5c8BauqAYOOrkFOjG4eiUWk=
+github.com/qiniu/api.v7 v7.2.5+incompatible h1:6KKaGt7MbFzVGSniwzv7qsM/Qv0or4SkRJfmak8LqZE=
+github.com/qiniu/api.v7/v7 v7.6.0 h1:396UGG+AWLh80pIhpPNCgEzb04t4S8CGKxqvLkiQeZI=
+github.com/qiniu/api.v7/v7 v7.6.0/go.mod h1:zg3DaqU8mVnoQSQmtC/Mr2wXTJIE7fvcup+7sMt58Q0=
